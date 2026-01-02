@@ -225,3 +225,5 @@ Dashboard screenshots are included in this repository to illustrate the final ou
 **Elvis Frimpong**  
 Data Analyst | Agricultural Engineer  
 LinkedIn: [linkedin.com/in/elvisfrimpong](https://www.linkedin.com/in/elvisfrimpong)
+
+---
