@@ -214,15 +214,14 @@ SWITCH (
 
 ---
 
-## Author
-
-**Elvis**
-Data Analyst | Agricultural Engineer
-
----
-
 ## Preview
 
 Dashboard screenshots are included in this repository to illustrate the final output.
 ![WhatsApp Image 2026-01-02 at 10 28 51](https://github.com/user-attachments/assets/4cb4dd17-e9d2-440b-bd0a-25bde0b496d7)
 
+---
+## Author
+
+**Elvis Frimpong**  
+Data Analyst | Agricultural Engineer  
+LinkedIn: [linkedin.com/in/elvisfrimpong](https://www.linkedin.com/in/elvisfrimpong)
